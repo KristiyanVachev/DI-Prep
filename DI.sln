@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2018-Jul-01-SortLex", "2018
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2017-Sep-01-Forest", "2017-Sep-01-Forest\2017-Sep-01-Forest.vcxproj", "{D6BB9FF0-42E9-42E7-BC7A-77F6B4457A3B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2017-Sep-02-SortingLinkedLists", "2017-Sep-02-SortingLinkedLists\2017-Sep-02-SortingLinkedLists.vcxproj", "{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{D6BB9FF0-42E9-42E7-BC7A-77F6B4457A3B}.Release|x64.Build.0 = Release|x64
 		{D6BB9FF0-42E9-42E7-BC7A-77F6B4457A3B}.Release|x86.ActiveCfg = Release|Win32
 		{D6BB9FF0-42E9-42E7-BC7A-77F6B4457A3B}.Release|x86.Build.0 = Release|Win32
+		{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}.Debug|x64.ActiveCfg = Debug|x64
+		{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}.Debug|x64.Build.0 = Debug|x64
+		{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}.Debug|x86.Build.0 = Debug|Win32
+		{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}.Release|x64.ActiveCfg = Release|x64
+		{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}.Release|x64.Build.0 = Release|x64
+		{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}.Release|x86.ActiveCfg = Release|Win32
+		{DE9CEC66-0FA1-4385-9830-FB36BB4118AE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
